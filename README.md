@@ -39,3 +39,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 * Colors --> https://vuetifyjs.com/en/style/colors#introduction
 * Font Sizes --> https://vuetifyjs.com/en/style/typography#font-sizes
+* Breakpoints --> https://vuetifyjs.com/en/getting-started/quick-start
