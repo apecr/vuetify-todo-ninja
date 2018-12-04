@@ -45,3 +45,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 * Spacing --> https://vuetifyjs.com/en/layout/spacing#introduction
 * Grid System --> https://vuetifyjs.com/en/layout/grid#introduction
 * Chips --> https://vuetifyjs.com/en/components/chips#introduction
+* Tooltip --> https://vuetifyjs.com/en/components/tooltips#introduction
