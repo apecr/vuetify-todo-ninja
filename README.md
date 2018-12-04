@@ -41,3 +41,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 * Font Sizes --> https://vuetifyjs.com/en/style/typography#font-sizes
 * Breakpoints --> https://vuetifyjs.com/en/getting-started/quick-start
 * Toolbars --> https://vuetifyjs.com/en/components/toolbars#introduction
+* Theme --> https://vuetifyjs.com/en/style/theme#introduction
