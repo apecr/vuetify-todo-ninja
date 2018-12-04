@@ -2,9 +2,20 @@
   <div class="projects">
     <h1 class="subheading grey--text">Projects</h1>
     <v-container class="my-5">
-      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ab veniam dolorem deserunt rem ullam optio quam consectetur nulla accusantium sapiente excepturi obcaecati velit vitae, commodi, consequatur neque assumenda qui quisquam.</p>
-      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maiores id voluptatum sunt dolor eius iste soluta provident doloremque repellendus voluptate, eligendi suscipit, assumenda repellat libero aliquam esse ipsa non expedita.</p>
-      content
+      <v-layout row wrap>
+        <v-flex xs12 md6>
+          <v-btn outline block class="primary">1</v-btn>
+        </v-flex>
+        <v-flex xs4 md2>
+          <v-btn outline block class="primary">2</v-btn>
+        </v-flex>
+        <v-flex xs4 md2>
+          <v-btn outline block class="primary">3</v-btn>
+        </v-flex>
+        <v-flex xs4 md2>
+          <v-btn outline block class="primary">4</v-btn>
+        </v-flex>
+      </v-layout>
     </v-container>
   </div>
 </template>
