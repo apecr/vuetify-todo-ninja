@@ -46,3 +46,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 * Grid System --> https://vuetifyjs.com/en/layout/grid#introduction
 * Chips --> https://vuetifyjs.com/en/components/chips#introduction
 * Tooltip --> https://vuetifyjs.com/en/components/tooltips#introduction
+* Cards --> https://vuetifyjs.com/en/components/cards#introduction
