@@ -14,6 +14,14 @@
     </v-toolbar>
 
     <v-navigation-drawer v-model="drawer" app class="primary">
+      <v-layout column align-center>
+        <v-flex class="mt-5">
+          <v-avatar size="100">
+            <img src="/avatar-1.png" alt="">
+          </v-avatar>
+          <p class="white--text subheading mt-1">The Net Ninja</p>
+        </v-flex>
+      </v-layout>
       <v-list>
         <v-list-tile v-for="(link, index) in links" :key="index" router :to="link.route">
           <v-list-tile-action>
