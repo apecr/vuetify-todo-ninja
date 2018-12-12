@@ -50,3 +50,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 * Expansion Panel --> https://vuetifyjs.com/en/components/expansion-panels#introduction
 * Menus --> https://vuetifyjs.com/en/components/menus#introduction
 * Dialogs --> https://vuetifyjs.com/en/components/dialogs#introduction
+* Forms --> https://vuetifyjs.com/en/components/forms#introduction
+* Date Picker --> https://vuetifyjs.com/en/components/date-pickers#introduction
