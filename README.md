@@ -48,3 +48,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 * Tooltip --> https://vuetifyjs.com/en/components/tooltips#introduction
 * Cards --> https://vuetifyjs.com/en/components/cards#introduction
 * Expansion Panel --> https://vuetifyjs.com/en/components/expansion-panels#introduction
+* Menus --> https://vuetifyjs.com/en/components/menus#introduction
